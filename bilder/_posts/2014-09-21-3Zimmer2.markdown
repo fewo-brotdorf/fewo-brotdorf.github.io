@@ -1,0 +1,12 @@
+---
+layout: default
+images-array:
+ - image: Zimmer2.jpg
+   alt: 
+ - image: Zimmer21.jpg
+   alt: 
+ - image: Zimmer22.jpg
+   alt: 
+category: Services
+title: Kleines Zimmer
+description: Wir haben auch ein kleines Zimmer zur Verfügung.

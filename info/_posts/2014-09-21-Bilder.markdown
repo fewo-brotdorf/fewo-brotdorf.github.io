@@ -1,0 +1,14 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Eindrücke der Ferienwohnung
+description: |
+---
+
+Unsere Ferienwohnung hat 2 Schlafzimmer mit insgesamt XX Betten. Dazu gibt es ein großzügiges
+Bad mit Dusche und Badewanne und ein separates WC.
+Das geräumige Wohnzimmer hat eine große Couchlandschaft und ist offen an das Esszimmer und die 
+Küche angeschlossen.
+
+Mehr Informationen und Bilder zur Wohnung finden Sie [hier]({{ site.baseurl }}/bilder)

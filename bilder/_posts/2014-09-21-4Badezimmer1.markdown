@@ -1,0 +1,12 @@
+---
+layout: default
+images-array:
+ - image: Bad1.jpg
+   alt: 
+ - image: Bad12.jpg
+   alt: 
+ - image: Bad13.jpg
+   alt: 
+category: Services
+title: Großes Badezimmer
+description: Das große Bad hat eine Badewanne.

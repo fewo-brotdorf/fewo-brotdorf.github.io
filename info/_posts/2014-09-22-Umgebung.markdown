@@ -1,0 +1,10 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Aktivitäten in der Umbegung
+description: |
+---
+
+In unserer Region gibt es zahlreiche tolle Ausflugsziele. Wenn Sie mehr zu Natur- und 
+Kulturerlebnissen erfahren möchten schauen Sie einfach [hier]({{ site.baseurl }}/aktivitaeten).

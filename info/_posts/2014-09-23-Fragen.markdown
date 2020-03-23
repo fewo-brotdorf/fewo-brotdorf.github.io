@@ -1,0 +1,11 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Fragen und Kontakt
+description: |
+---
+
+Wir stehen Ihnen gerne sowohl telefonisch, als auch  per E-Mail jederzeit für Ihre Fragen zur Verfügung.
+Neben Buchungsanfragen können Sie uns auch gerne bzgl. Unternehmungen und anstehenden Veranstaltungen 
+befragen.

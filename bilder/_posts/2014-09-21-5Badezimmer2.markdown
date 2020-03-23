@@ -1,0 +1,10 @@
+---
+layout: default
+images-array:
+ - image: Bad2.jpg
+   alt: 
+ - image: Bad21.jpg
+   alt: 
+category: Services
+title: Kleines Badezimmer
+description: Es gibt auch ein kleines Badezimmer.

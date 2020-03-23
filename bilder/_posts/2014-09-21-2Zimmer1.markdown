@@ -1,0 +1,12 @@
+---
+layout: default
+images-array:
+ - image: Zimmer13.jpg
+   alt: 
+ - image: Zimmer1.jpg
+   alt: 
+ - image: Zimmer12.jpg
+   alt: 
+category: Services
+title: Großes Zimmer
+description: Das erste Zimmer enhält genuger Platz für 3 Personen.
