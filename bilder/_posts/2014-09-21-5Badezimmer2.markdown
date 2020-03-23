@@ -7,4 +7,7 @@ images-array:
    alt: 
 category: Services
 title: Kleines Badezimmer
-description: Es gibt auch ein kleines Badezimmer.
+ident: Bad2
+description: 
+---
+Es gibt auch ein kleines Badezimmer.

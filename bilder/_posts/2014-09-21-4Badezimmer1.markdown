@@ -9,4 +9,7 @@ images-array:
    alt: 
 category: Services
 title: Großes Badezimmer
-description: Das große Bad hat eine Badewanne.
+ident: Bad1
+description: 
+---
+Das große Bad hat eine Badewanne.

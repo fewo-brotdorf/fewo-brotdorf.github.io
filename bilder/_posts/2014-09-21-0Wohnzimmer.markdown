@@ -9,5 +9,8 @@ images-array:
    alt: 
 category: Services
 title: Wohnzimmer
-description: Sie können sich auf eine gemütliche Couch legen. Außerdem haben Sie einen Fernsehen mit Internet Verbingung und ein toller Blick von Brotdorf. 
+ident: Wohnzimmer
+description:  
 ---
+Sie können sich auf eine gemütliche Couch legen. 
+Außerdem haben Sie einen Fernsehen mit Internet Verbingung und ein toller Blick von Brotdorf.

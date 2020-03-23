@@ -10,5 +10,10 @@ images-array:
  - image: Mikro.jpg
    alt: 
 category: Services
-title: Wohnzimmer2
-description: In dem Esszimmer haben sie einen Waschbecken, eine Kaffeemaschine und eine Mikrowelle. Sie können in ruhe Ihre Kaffee genießen.
+title: Esszimmmer
+ident: Esszimmer
+description: 
+---
+
+In dem Esszimmer haben sie einen Waschbecken, eine Kaffeemaschine und eine Mikrowelle. 
+Sie können in ruhe Ihre Kaffee genießen.

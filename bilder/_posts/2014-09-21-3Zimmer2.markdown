@@ -9,4 +9,7 @@ images-array:
    alt: 
 category: Services
 title: Kleines Zimmer
-description: Wir haben auch ein kleines Zimmer zur Verfügung.
+ident: kleines-zimmer
+description: 
+---
+Wir haben auch ein kleines Zimmer zur Verfügung.

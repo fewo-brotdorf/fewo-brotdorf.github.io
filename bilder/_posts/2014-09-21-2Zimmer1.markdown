@@ -9,4 +9,7 @@ images-array:
    alt: 
 category: Services
 title: Großes Zimmer
-description: Das erste Zimmer enhält genuger Platz für 3 Personen.
+ident: großes-zimmer
+description: 
+---
+Das erste Zimmer enhält genuger Platz für 3 Personen.
