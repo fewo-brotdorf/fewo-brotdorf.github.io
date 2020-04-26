@@ -6,8 +6,8 @@ images-array:
  - image: Bad21.jpg
    alt: 
 category: Services
-title: Kleines Badezimmer
+title: WC
 ident: Bad2
 description: 
 ---
-Es gibt auch ein kleines Badezimmer.
+Das separate WC ist außerdem mit einer weiteren Komode ausgestattet.

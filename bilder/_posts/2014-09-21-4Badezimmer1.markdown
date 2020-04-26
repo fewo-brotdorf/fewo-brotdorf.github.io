@@ -8,8 +8,9 @@ images-array:
  - image: Bad13.jpg
    alt: 
 category: Services
-title: Großes Badezimmer
+title: Badezimmer
 ident: Bad1
 description: 
 ---
-Das große Bad hat eine Badewanne.
+Das große, helle Badezimmer verfügt über eine großzügige Dusche sowie eine Badewanne.
+Reichlich Stauraum, sowie ein Föhn sind ebenfalls vorhanden.

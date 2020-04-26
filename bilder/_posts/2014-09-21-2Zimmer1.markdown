@@ -8,8 +8,10 @@ images-array:
  - image: Zimmer12.jpg
    alt: 
 category: Services
-title: Großes Zimmer
+title: Schlafzimmer 1
 ident: großes-zimmer
 description: 
 ---
-Das erste Zimmer enhält genuger Platz für 3 Personen.
+Dieses Schlafzimmer verfügt durch ein großes Doppelbett (1.80 x 2.00 m) und ein 
+Einzelbett (0.90 x 2.00 m) über Platz für bis zu 3 Personen. Außerdem ist ein Ganzkörperspiegel, sowie
+ein geräumiger Kleiderschrank vorhanden.

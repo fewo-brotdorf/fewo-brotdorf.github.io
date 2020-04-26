@@ -12,5 +12,5 @@ title: Wohnzimmer
 ident: Wohnzimmer
 description:  
 ---
-Sie können sich auf eine gemütliche Couch legen. 
-Außerdem haben Sie einen Fernsehen mit Internet Verbingung und ein toller Blick von Brotdorf.
+Im großzügigen Wohnzimmer befindt sich eine Sofalandschaft mit ausreichend Platz für bis zu 6 Personen.
+Außerdem gibt es einen 46" Fernseher mit Internetanschluss.

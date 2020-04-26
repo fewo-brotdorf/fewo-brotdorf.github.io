@@ -4,7 +4,7 @@ images-array:
  - image: Flur.jpg
    alt: 
 category: Services
-title: Flur
+title: Eingangsbereich
 ident: flur
 description: 
 ---

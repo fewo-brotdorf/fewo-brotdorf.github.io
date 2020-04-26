@@ -8,8 +8,9 @@ images-array:
  - image: Zimmer22.jpg
    alt: 
 category: Services
-title: Kleines Zimmer
+title: Schlafzimmer 2
 ident: kleines-zimmer
 description: 
 ---
-Wir haben auch ein kleines Zimmer zur Verfügung.
+Dieses etwas kleinere Schlafzimmer ist mit einem Doppelbett (1.40 x 2.00 m) und einem Regal- Komodensystem
+ausgestattet.
