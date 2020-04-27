@@ -39,8 +39,8 @@ urls:
       url: /impressum/
     - text: Datenschutz
       url: /datenschutz/
-    - text: Bilder
-      url: /bilder/
+    - text: Zimmer & Preise
+      url: /zimmer+preise/
     - text: Informationen
       url: /informationen/
     - text: Aktivitäten

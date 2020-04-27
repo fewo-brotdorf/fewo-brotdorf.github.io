@@ -1,8 +1,8 @@
 ---
 layout: bilder_default
-title: Die Ferienwohnung
+title: Zimmer & Preise
 subTitle: Visuelle Eindrücke unserer Ferienwohnung
-permalink: /bilder/
+permalink: /zimmer+preise/
 ---
 
 # Fotos von der Wohnung
