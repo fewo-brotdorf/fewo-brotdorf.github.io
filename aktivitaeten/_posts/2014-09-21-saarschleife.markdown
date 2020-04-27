@@ -1,9 +1,13 @@
 ---
 layout: default
-img: dog.png
+img: Saarschleife.png
 category: Services
-title: Saarschleife
-description: |
+title: Saarschleife und Baumwipfelpfad
+description:
 ---
 
-Die Saarschleife ist toll
+
+Die Saarschleife mit dem Baumwipfelpfad ist das Aushängeschild unseres schönen Bundeslandes. 
+(ca fünfzehn Autominuten entfernt).
+
+Für weitere Informationen klicken Sie <a href= "https://www.urlaub.saarland/Media/Attraktionen/Baumwipfelpfad-Saarschleife"> hier </a> 

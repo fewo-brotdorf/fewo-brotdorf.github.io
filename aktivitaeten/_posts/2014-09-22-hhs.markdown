@@ -1,9 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: Der Hünsrück-Höhensteig
-description: |
----
-
-Bla bla
