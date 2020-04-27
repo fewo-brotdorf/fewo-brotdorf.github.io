@@ -5,7 +5,7 @@
 <section id="services">
     <!-- Page Content -->
     {% for post in site.posts reversed %}
-    {% if post.path contains 'bilder' %}
+    {% if post.path contains 'zimmer+preise' %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
