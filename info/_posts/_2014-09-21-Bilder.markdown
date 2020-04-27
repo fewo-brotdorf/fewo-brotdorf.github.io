@@ -1,0 +1,11 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Eindrücke der Ferienwohnung
+description: |
+---
+
+
+
+Mehr Informationen und Bilder zur Wohnung finden Sie [hier]({{ site.baseurl }}/bilder)
