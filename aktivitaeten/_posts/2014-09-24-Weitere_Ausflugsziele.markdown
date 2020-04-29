@@ -1,19 +1,19 @@
 ---
 layout: default
-img: Wanderweg.png
+img: Weitere_Aktivitaeten.jpg
 category: Services
 title: Weitere Ausflugsziele
 description: |
 ---
 
- <p> <a href= ""> Wolfspark in Merzig </a> </p>
- <p> <a href= ""> Keramik-Erlebniszentrum Villeroy & Boch in Mettlach </a> </p>
- <p> <a href= ""> Weltkulturerbe Völklinger Hütte </a> </p>
- <p> <a href= ""> Saarlouis </a> </p>
- <p> <a href= ""> Trier </a> </p>
- <p> <a href= ""> Luxemburg </a> </p>
- <p> <a href= ""> Bostalsee </a> </p>
- <p> <a href= ""> Römische Villa Borg </a> </p>
+ <p> <a href= "http://www.wolfspark-wernerfreund.de/"> Wolfspark in Merzig </a> </p>
+ <p> <a href= "https://www.urlaub.saarland/Media/Attraktionen/Keramik-Erlebniszentrum-Villeroy-Boch"> Keramik-Erlebniszentrum Villeroy & Boch in Mettlach </a> </p>
+ <p> <a href= "https://www.voelklinger-huette-afrika.org/"> Weltkulturerbe Völklinger Hütte </a> </p>
+ <p> <a href= "https://www.urlaub.saarland/Media/Orte/Saarlouis"> Saarlouis </a> </p>
+ <p> <a href= "https://www.trier.de/startseite/"> Trier </a> </p>
+ <p> <a href= "https://www.visitluxembourg.com/de/regionen/luxemburg-hauptstadt"> Luxemburg </a> </p>
+ <p> <a href= "https://www.urlaub.saarland/Media/Attraktionen/Bostalsee"> Bostalsee </a> </p>
+ <p> <a href= "https://www.urlaub.saarland/Media/Attraktionen/Roemische-Villa-Borg"> Römische Villa Borg </a> </p>
 
 
 
