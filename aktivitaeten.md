@@ -1,7 +1,7 @@
 ---
 layout: aktivitaeten_default
-title: Aktivitäten
-subTitle: In unserer Umgebung gibt es sehr viel zu entdecken. Eine kleine Auswahl schöner Tagestrips möchten wir Ihnen im Folgenden vorstellen.
+title: <font face="Calibri">Ausflugsziele</font>
+subTitle: <font face="Calibri">In unserer Umgebung gibt es sehr viel zu entdecken. Eine kleine Auswahl schöner Tagestouren möchten wir Ihnen im Folgenden vorstellen.</font>
 
 permalink: /aktivitaeten/
 ---

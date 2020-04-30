@@ -1,7 +1,7 @@
 ---
 layout: bilder_default
-title: Zimmer & Preise
-subTitle: Visuelle Eindrücke unserer Ferienwohnung
+title: <font face="Calibri">Wohnung & Preise</font>
+subTitle: <font face="Calibri">Freuen Sie sich auf visuelle Eindrücke unserer Ferienwohnung</font>
 permalink: /zimmer+preise/
 ---
 

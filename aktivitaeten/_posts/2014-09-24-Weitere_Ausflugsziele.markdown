@@ -2,7 +2,7 @@
 layout: default
 img: Weitere_Aktivitaeten.jpg
 category: Services
-title: Weitere Ausflugsziele
+title: Weitere Ausflugsziele in Natur und Kultur
 description: |
 ---
 
