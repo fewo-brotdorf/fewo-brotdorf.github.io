@@ -13,4 +13,4 @@ Die Saarschleife mit dem Baumwipfelpfad ist das Aushängeschild unseres schönen
 Für weitere Informationen klicken Sie <a href= "https://www.urlaub.saarland/Media/Attraktionen/Baumwipfelpfad-Saarschleife"> hier </a> 
 
 
-(Baumwipfelpfad Saarschleife - © Alexander Groß)
+(Foto: Baumwipfelpfad Saarschleife - © Alexander Groß)

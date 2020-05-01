@@ -11,4 +11,4 @@ genaue Zeitangaben für Ihre Planung. Somit ist für jeden Geschmack sicher ein 
 
 Für weitere Informationen klicken Sie <a href= "https://www.urlaub.saarland/Media/Alle-Premiumwege"> hier </a> 
 
-(Schlucht auf dem Mühlenpfad - © Autor: Frank Polotzek, Quelle: Tourismus Zentrale Saarland GmbH)
+(Foto: Schlucht auf dem Mühlenpfad - © Autor: Frank Polotzek, Quelle: Tourismus Zentrale Saarland GmbH)
