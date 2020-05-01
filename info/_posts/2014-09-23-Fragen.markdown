@@ -1,0 +1,12 @@
+---
+layout: default
+img: mama.jpg
+category: Services
+title: Fragen und Kontakt
+description: |
+---
+
+Wir stehen Ihnen gerne sowohl telefonisch, als auch  per <a href="mailto:ferienwohnung@naumail.de">E-Mail</a> jederzeit für Ihre Fragen zur Verfügung.
+Neben Buchungsanfragen können Sie uns auch gerne bzgl. Unternehmungen und anstehenden Veranstaltungen 
+befragen.
+              
