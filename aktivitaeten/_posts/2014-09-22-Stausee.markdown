@@ -5,7 +5,7 @@ category: Services
 title: Stausee Losheim
 description: |
 ---
-Am Stausee Losheim können Sie spazieren, baden, minigolfen, Tretboot fahren, lecker essen und trinken (ca zehn Autominuten entfernt)
+Am Stausee Losheim bietet sich Ihnen die Möglichkeit verschiedenster Aktivitäten, beispielsweise Spazieren gehen, Baden, Minigolfen und Tretboot fahren. Restaurants und Imbisse sorgen für Ihr leibliches Wohl (ca. 10 Minuten mit dem Auto entfernt).
 
 Für weitere Informationen klicken Sie <a href= "https://www.losheim-stausee.de/"> hier </a> 
 

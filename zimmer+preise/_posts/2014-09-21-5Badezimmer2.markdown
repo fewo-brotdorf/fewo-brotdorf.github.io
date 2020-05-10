@@ -10,4 +10,4 @@ title: WC
 ident: Bad2
 description: 
 ---
-Das separate WC ist außerdem mit einer weiteren Komode ausgestattet.
+Das separate WC ist mit einer weiteren Komode ausgestattet.

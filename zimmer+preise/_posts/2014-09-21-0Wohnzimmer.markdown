@@ -13,4 +13,4 @@ ident: Wohnzimmer
 description:  
 ---
 Im großzügigen Wohnzimmer befindet sich eine Sofalandschaft mit ausreichend Platz für bis zu 6 Personen.
-Außerdem gibt es einen 46" Fernseher mit Internetanschluss.
+Außerdem gibt es einen 55 Zoll Fernseher mit Internetanschluss.

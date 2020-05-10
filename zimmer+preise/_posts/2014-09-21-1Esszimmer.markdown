@@ -10,12 +10,14 @@ images-array:
  - image: Mikro.jpg
    alt: 
 category: Services
-title: Esszimmmer
+title: Esszimmer
 ident: Esszimmer
 description: 
 ---
 
 Im hellen Esszimmer befindet sich ein Tisch für bis zu 6 Personen. Außerdem bietet es einen direkten Zugang zum Balkon, 
 auf welchem Gartenmöbel und ein Grill zur Verfügung stehen.
-Die Küche ist mit einem Mikrowellen/Backofen-Kombigerät, einer Kaffeemaschine, einem Wasserkocher, einem Eierkocher 
-und Geschirr ausgestattet. 
+In der Küche ist kein Herd vorhanden, jedoch ist sie mit einem Mikrowellen/Backofen-Kombigerät, einer Kaffeemaschine, einem Wasserkocher, einem Eierkocher 
+und Geschirr sehr gut ausgestattet. 
+
+
