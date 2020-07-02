@@ -12,5 +12,5 @@ title: Schlafzimmer 2
 ident: kleines-zimmer
 description: 
 ---
-Dieses etwas kleinere Schlafzimmer ist mit einem Doppelbett (1.40 x 2.00 m) und einem Regal- Komodensystem
+Dieses etwas kleinere Schlafzimmer ist mit einem Doppelbett (1.40 x 2.00 m) und einem Regal-Kommodensystem
 ausgestattet.
